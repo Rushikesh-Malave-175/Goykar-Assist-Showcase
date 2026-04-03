@@ -15,7 +15,7 @@ free slots directly.
  8. Safety and Moderation: Users/Service providers/Inappropriate content can be reported. Admin 
 login with control panel.
  9. Offers and rewards: Reward repeating customers with offers/coupons/festival based discounts. 
-10. (future enhn.) Community & feedback: Customers can give feedback on the service providers. And 
+10. Community & feedback: Customers can give feedback on the service providers. And 
 vice-versa as well.
 
 ### Live: (awaiting)
